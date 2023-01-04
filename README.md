@@ -1,4 +1,4 @@
-## Hi there!👋
+# Hi there!👋
 
 I'm KurisaW,or you can call me yifang.
 
@@ -18,7 +18,7 @@ I'm KurisaW,or you can call me yifang.
 * [Email :yifang.wangyq@foxmail.com](mailto:yifang.wangyq@foxmail.com)
 * [My Website : https://kurisaw.github.io/](https://kurisaw.github.io/)
 
-## How to use the `Hugo Theme Stack Starter Template`?
+# How to use the `Hugo Theme Stack Starter Template`?
 
 This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
