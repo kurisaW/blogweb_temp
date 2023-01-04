@@ -2,7 +2,7 @@
 title: About
 links:
   - title: KurisaW
-    description: Looking forward to your visit. Please contact me at this email address:mailto:yifang.wangyq@foxmail.com
+    description: Tomorrow is gone!
     website: https://kurisaw.github.io/
     image: https://user-images.githubusercontent.com/98592772/209311311-e9871047-67d5-479c-99d9-3b88e87c9947.png
 menu:
@@ -14,24 +14,23 @@ menu:
 comments: false
 ---
 
-### Hi there 👋
+## Hi there!👋
 
-- 🔭 Now I am a junior student ...
-- 🌱 I’m currently learning RT-Thread、linux、ROS ...
-- 👯 I’m looking to collaborate on Embedded or neural network ...
-- 🤔 I'm looking forward to sharing my experience and learning to help some beginners get through the rookie phase faster ...
-- 💬 Ask me about Linux、Embedded ...
+I'm KurisaW,or you can call me yifang.
 
 ```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+🔭 Now I am a junior student ...
+🌱 I’m currently learning RT-Thread、linux、ROS ...
+👯 I’m looking to collaborate on Embedded or neural network ...
+🤔 I'm looking forward to sharing my experience and learning to help some beginners get through the rookie phase faster ...
+💬 Ask me about Linux、Embedded ...
+
+😊 I will be happy to discuss technology and knowledge with you and look forward to your visit!
 ```
 
-`image` field accepts both local and external images.
+`Contact me:`
+
+* [Github Address :https://github.com/kurisaW](https://github.com/kurisaW)
+* [Email :yifang.wangyq@foxmail.com](mailto:yifang.wangyq@foxmail.com)
+* [My Website : https://kurisaw.github.io/](https://kurisaw.github.io/)
+
