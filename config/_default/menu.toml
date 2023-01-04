@@ -30,3 +30,14 @@ url = "https://blog.csdn.net/qq_56914146?spm=1000.2115.3001.5343"
 
 [social.params]
 icon = "brand-csdn"
+
+[social.params]
+icon = "brand-email"
+
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:yifang.wangyq@foxmail.com"
+
+[social.params]
+icon = "brand-email"
