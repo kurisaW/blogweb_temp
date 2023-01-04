@@ -22,3 +22,11 @@ url = "https://twitter.com/KurisaWhh"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "csdn"
+name = "CSDN"
+url = "https://blog.csdn.net/qq_56914146?spm=1000.2115.3001.5343"
+
+[social.params]
+icon = "brand-csdn"
