@@ -1,6 +1,6 @@
 ---
-title: x210开发板 虚拟驱动创建流程(驱动编译进内核)
-description: ubuntu终端下命令ifconfig的问题解决
+title: x210开发板 虚拟驱动创建流程
+description: x210编写驱动编译进内核
 slug: 【Linux系统开发】 x210开发板 虚拟驱动创建流程(驱动编译进内核)
 date: 2022-07-22 00:00:00+0000
 image: cover.jpg
