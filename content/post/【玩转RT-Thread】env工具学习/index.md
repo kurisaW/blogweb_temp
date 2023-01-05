@@ -1,14 +1,15 @@
-<!-- ---
+---
 title: env工具学习
 description: Env 是 RT-Thread 推出的开发辅助工具，包括配置器和包管理器。开发者可以使用 Env 工具对 RT-Thread 内核和组件的功能进行配置，对组件进行自由裁剪，对线上软件包进行管理，使得系统以搭积木的方式进行构建，简单方便。
 slug: 【玩转RT-Thread】env工具学习
-date: 2022-07-2 08:00:00+0000
+date: 2022-05-12 00:00:00+0000
 image: cover.jpg
 categories:
     - RT-Thread
 tags:
     - RT-Thread
---- -->
+    - env
+---
 
 #### 一、基础配置
 
