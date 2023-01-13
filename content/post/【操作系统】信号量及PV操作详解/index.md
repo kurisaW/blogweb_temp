@@ -5,7 +5,7 @@ slug: 【操作系统】信号量及PV操作详解
 date: 2022-03-10 00:00:00+0000
 image: cover.jpg
 categories:
-    - operating system
+    - operating_system
 tags:
     - operating system
 ---

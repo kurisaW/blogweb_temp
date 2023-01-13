@@ -5,7 +5,7 @@ slug: 【操作系统】进程上下文和线程上下文
 date: 2022-03-08 00:00:00+0000
 image: cover.jpg
 categories:
-    - operating system
+    - operating_system
 tags:
     - operating system
 ---

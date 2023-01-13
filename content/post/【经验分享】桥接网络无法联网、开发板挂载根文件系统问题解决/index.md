@@ -5,7 +5,7 @@ slug: 【经验分享】桥接网络无法联网、开发板挂载根文件系�
 date: 2022-03-30 00:00:00+0000
 image: cover.jpg
 categories:
-    - experience sharing
+    - experience_sharing
 tags:
     - experience sharing
 ---

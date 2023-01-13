@@ -5,7 +5,7 @@ slug: 【经验分享】Microsoft Visual C++ 14.0 安装及Pycocotools2.0版本�
 date: 2022-04-12 00:00:00+0000
 image: cover.jpg
 categories:
-    - experience sharing
+    - experience_sharing
 tags:
     - experience sharing
 ---
