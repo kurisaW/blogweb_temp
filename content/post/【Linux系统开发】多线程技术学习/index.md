@@ -5,7 +5,7 @@ slug: 【Linux系统开发】多线程技术学习
 date: 2022-03-22 00:00:00+0000
 image: cover.jpg
 categories:
-    - operating system
+    - operating_system
 tags:
     - operating system
 ---
