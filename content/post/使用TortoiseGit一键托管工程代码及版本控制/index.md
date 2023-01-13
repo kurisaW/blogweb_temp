@@ -1,7 +1,7 @@
 ---
-title: 使用TortoiseGit一键托管工程代码及版本控制
+title: C素养提升-指针专题
 description: TortoiseGit 是 Git 的 Windows Shell 接口，基于 TortoiseSVN。它是开源的，可以完全使用免费提供的软件构建。
-slug: 使用TortoiseGit一键托管工程代码及版本控制
+slug: C素养提升-指针专题
 date: 2022-07-29 00:00:00+0000
 image: cover.jpg
 categories:
