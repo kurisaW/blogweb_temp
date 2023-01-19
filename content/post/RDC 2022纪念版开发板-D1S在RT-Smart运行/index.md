@@ -2,7 +2,7 @@
 title:  RDC 2022纪念版开发板-D1S在RT-Smart运行
 description: 近日在RT-Thread举办的RDC开发者大会上抽奖获得的全志D1S开发板，这段时间也是借此来简单做个小测试。
 slug:  RDC 2022纪念版开发板-D1S在RT-Smart运行
-date: 2022-1-19 08:00:00+0000
+date: 2022-01-19 00:00:00 +0000
 image: cover.jpg
 categories:
     - experience_sharing
