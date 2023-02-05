@@ -59,7 +59,7 @@ scons --target=mdk5
 
 下面是RT-Thread成功在LPC55S69的示例,可以看到LED灯以500ms进行闪烁：
 
-<img src="D:/Desktop/pi/video.gif" alt="video" style="zoom:33%;" />
+![video](https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302051354900.gif)
 
 ## 结语
 
