@@ -31,15 +31,17 @@ tags:
 
 1.选择开发板-->
 
-<img src="D:/Desktop/kurisaW.github.io/content/post/%E3%80%90NXP%E3%80%91LPC55S69%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/cover.jpg" alt="image-20230203110821236" style="zoom:;" />
+![image-20230205133247352](https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302051333457.png)
+
+
 
 2.这里我们选择处理器为LPC55S69（选择自己所需的处理器型号），点击构建MCUXpresso SDK v2.13.0（默认最新即可）
 
-<img src="https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302031110101.png" alt="image-20230203111016013"  />
+![image-20230205133458266](https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302051334372.png)
 
 3.根据自己的开发需求进行组件及中间件等，同时选择需要的工具链，这里我们全选，包括工具链和IDE，并点击`下载SDK`
 
-<img src="https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302031122007.png" alt="image-20230203112253916"  />
+![img-202302031122007](https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302031122007.png)
 
 4.等待构建完成，这里我们选择我们刚刚生成的档案，点击下载软件包
 
