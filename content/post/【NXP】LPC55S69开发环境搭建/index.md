@@ -1,5 +1,5 @@
 ---
-title: NXP学习
+title: 【NXP】LPC55S69开发环境搭建
 description: 本篇文章用于LPC55S69开发环境及配置工具的使用教学
 slug: 【NXP】LPC55S69开发环境搭建
 date: 2023-02-04 00:00:00+0000
