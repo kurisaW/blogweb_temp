@@ -31,7 +31,7 @@ tags:
 
 1.选择开发板-->
 
-<img src="https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302041205187.jpg" alt="image-20230203110821236" style="zoom:50%;" />
+<img src="D:/Desktop/kurisaW.github.io/content/post/%E3%80%90NXP%E3%80%91LPC55S69%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/cover.jpg" alt="image-20230203110821236"  />
 
 2.这里我们选择处理器为LPC55S69（选择自己所需的处理器型号），点击构建MCUXpresso SDK v2.13.0（默认最新即可）
 
@@ -83,11 +83,7 @@ tags:
 
 ![image-20230204112026675](https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302041120777.png)
 
-#### 调试与下载
-
-········
-
-#### 配置工具使用
+## 配置工具使用
 
 和`MCUXpresso IDE`配套的还有`MCUXpresso Config Tools`，打开`MCUXpresso IDE`，找到配置工具按钮打开
 
@@ -95,4 +91,12 @@ tags:
 
 ![image-20230204113817301](https://raw.githubusercontent.com/kurisaW/picbed/main/img/202302041138433.png)
 
-自此就可以自由发挥啦！
+## 结语
+
+到这里就是LPC55S69基本的开发环境的配置及测试了，欢迎大家合作交流！
+
+## 联系
+
+* [Email :yifang.wangyq@foxmail.com](mailto:yifang.wangyq@foxmail.com)
+* [Github Address :https://github.com/kurisaW](https://github.com/kurisaW)
+* [My Website :https://kurisaw.github.io/](
