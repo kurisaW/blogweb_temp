@@ -50,8 +50,6 @@ scons --target=mdk5
 听满老师讲LPC55S69的工程可能是使用的AC6编译器，但是Keil的V5.25的AC6可能存在问题，所以解决办法就是更新下Keil的版本（建议最新版）
 
 > 此处附上Keil[最新版下载官网](https://www.keil.com/update/check.asp?P=MDK&V=5.38.0.0&S=)
->
-> 同时Keil注册机[下载地址](https://github.com/kurisaW/my_tools/tree/main/Keil%E6%B3%A8%E5%86%8C%E6%9C%BA)
 
 下载好最新版本后，前面的步骤重复，然后重新编译下载即可。
 
