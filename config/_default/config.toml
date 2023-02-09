@@ -14,19 +14,3 @@ hasCJKLanguage = true
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
-
-# gitalk
-[params]
-  enableGitalk = true
-[params.gitalk] 
-    clientID = "25795e5e383f49f161b6" # 您刚才创建Github Application 的 Client ID
-    clientSecret = "01ec1933b1b0779b145450f3fc5a086a1c46e9c8" # 您刚才创建Github Application 的 Client Secret
-    repo = "kurisaW.github.io" # 您的博客的github地址Repository name，例如：xxxx.github.io
-    owner = "kurisaW" # 您的GitHub ID
-    admin= "Yifang" # 您的GitHub ID
-    id= "location.pathname" # 文章页面的链接地址就是ID
-    labels= "gitalk" # Github issue labels. If you used to use Gitment, you can change it
-    perPage= 15 # Pagination size, with maximum 100.
-    pagerDirection= "last" # Comment sorting direction, available values are 'last' and 'first'.
-    createIssueManually= true # 设置为true，如果是管理员登录，会自动创建issue，如果是false，需要管理员手动添加第一个评论(issue)
-    distractionFreeMode= true # Enable hot key (cmd|ctrl + enter) submit comment.
