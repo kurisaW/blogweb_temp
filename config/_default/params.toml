@@ -140,8 +140,8 @@ emitMetadata = 0
 owner = "kurisaW"
 admin = "Yifang"
 repo = "https://github.com/kurisaW/Gitalk"
-clientID = "25795e5e383f49f161b6"
-clientSecret = "01ec1933b1b0779b145450f3fc5a086a1c46e9c8"
+clientID = "de18d1c2e4ff9697c27d"
+clientSecret = "61bbe95f3daa112b9287e114a234833c0506a88d"
 
 [comments.cusdis]
 host = ""
