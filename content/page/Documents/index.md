@@ -19,6 +19,6 @@ comments: true
 
 ## 目前已经推送的PDF资源：
 * [GCC.chinese-manual.pdf](https://kurisaw.github.io/Npdf//web/viewer.html?file=GCC.chinese-manual.pdf)
-* [Google.C++-Style-Guide(chinese).pdf](https://kurisaw.github.io/Npdf//web/viewer.html?file=Google.C++-Style-Guide(chinese).pdf)
+* [Google.C++-Style-Guide.pdf](https://kurisaw.github.io/Npdf//web/viewer.html?file=Google.C++-Style-Guide.pdf)
 * [Linux-series-summary-manual.pdf](https://kurisaw.github.io/Npdf//web/viewer.html?file=Linux-series-summary-manual.pdf)
 
