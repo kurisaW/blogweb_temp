@@ -75,7 +75,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "gitalk"
+provider = "utterances"
 
 [comments.disqusjs]
 shortname = ""
@@ -85,9 +85,9 @@ admin = ""
 adminLabel = ""
 
 [comments.utterances]
-repo = ""
+repo = "https://github.com/kurisaW/Gitalk"
 issueTerm = "pathname"
-label = ""
+label = "💬comment"
 
 [comments.remark42]
 host = ""
