@@ -1,0 +1,7 @@
+# Uncomment this file to enable multilanguage site support
+
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "KurisaW"
+weight = 1
