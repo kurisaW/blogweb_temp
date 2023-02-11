@@ -142,6 +142,7 @@ admin = "Yifang"
 repo = "https://github.com/kurisaW/Gitalk"
 clientID = "de18d1c2e4ff9697c27d"
 clientSecret = "61bbe95f3daa112b9287e114a234833c0506a88d"
+proxy = "https://curious-torrone-9db935.netlify.app/github_access_token"
 
 [comments.cusdis]
 host = ""
