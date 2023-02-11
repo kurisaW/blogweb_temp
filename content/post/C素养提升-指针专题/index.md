@@ -386,7 +386,7 @@ int main(int argc,char *argv[])
 #include <stdio.h>
 int main(int argc,char *argv[])
 {
-        int a[3][2] = {{1, 6}, {9, 12}, {61, 12}};
+        int a[3][2] = { {1, 6}, {9, 12}, {61, 12}};
         int *p, i, n;
 
         n = sizeof(a) / sizeof(int);
@@ -547,7 +547,7 @@ pa[1] = a[1];	//等价pa[1] = &a[1][0]
 int main(int argc,char *argv[])
 {
         int *p[3];
-        int a[] = {3, 6, 1, 7, 10};
+        int a[] = { 3, 6, 1, 7, 10};
 
         p[0] = a;
         p[1] = a + 1;
@@ -592,7 +592,7 @@ int main(int argc,char *argv[])
 #include <stdio.h>
 int main(int argc,char *argv[])
 {
-        int a[] = {3, 6, 9};
+        int a[] = { 3, 6, 9};
         int *p[2] = {&a[0],&a[1]};
 
         int **q;
@@ -615,7 +615,7 @@ int main(int argc,char *argv[])
 #include <stdio.h>
 int main(int argc,char *argv[])
 {
-        char *s[] = {"apple", "pear", "potato"};
+        char *s[] = { "apple", "pear", "potato"};
 
         int i, n;
         n = sizeof(s) / sizeof(char *);
@@ -664,7 +664,7 @@ int main(int argc,char *argv[])
 #include <stdio.h>
 int main(int argc,char *argv[])
 {
-        int a[] = {6, 3, 2, 7, 9, 6};
+        int a[] = { 6, 3, 2, 7, 9, 6};
         int i, n;
         void *p;
 
