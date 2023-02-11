@@ -14,3 +14,8 @@ hasCJKLanguage = true
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
+
+gitalk:
+    enable: true
+
+    proxy:https://curious-torrone-9db935.netlify.app/github_access_token
