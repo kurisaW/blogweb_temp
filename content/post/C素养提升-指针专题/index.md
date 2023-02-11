@@ -415,7 +415,7 @@ int main(int argc,char *argv[])
 #include <stdio.h>
 int main(int argc,char *argv[])
 {
-        int a[3][2] = {{1, 6}, {9, 12}, {61, 12}};
+        int a[3][2] = { {1, 6}, {9, 12}, {61, 12}};
         int *p, i, n;
 
         n = sizeof(a) / sizeof(int);
@@ -450,7 +450,7 @@ int main(int argc,char *argv[])
 #include <stdio.h>
 int main(int argc,char *argv[])
 {
-        int a[3][2] = {{1, 6}, {9, 12}, {61, 12}};
+        int a[3][2] = { {1, 6}, {9, 12}, {61, 12}};
         int (*p)[2];
 
         p = a;
